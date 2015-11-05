@@ -1,29 +1,11 @@
-# ROS 2.0 design
+#The art of compiled tools for web design
+I never had the time creating my own art, and sometimes I am wondering how I used the beauty of my own creativity. I was wondering and looking for a cool video game in an online store, and as I have seen hundreds of it, I was stumbling upon an awesome site that created a top design tools for a web design.
 
-This repository is a [Jekyll](http://jekyllrb.com/) website hosted on [Github Pages](http://pages.github.com/) at http://design.ros2.org/.
-
-The repository/website is meant to be a point around which users can collaborate on the ROS 2.0 design efforts as well as capture those discussions for posterity.
-
-The best mailing list for discussing these topics is [ros-sig-ng-ros@googlegroups.com](mailto:ros-sig-ng-ros@googlegroups.com).
-You can view the archives [here](https://groups.google.com/forum/?fromgroups#!forum/ros-sig-ng-ros)
-
-## Working Locally
-
-You can run the site locally by running this command in this repository:
-
-```
-jekyll serve --watch --baseurl=''
-```
-
-And navgiating to your browser to:
-
-[http://localhost:4000/](http://localhost:4000/)
+Looking for the top 10 web design, it includes the pixate, <a href="https://graftene.co.uk">graftene</a>, Affinity, Avocode, Antetype and Form. Example of the tools below. 
 
 
-## Site Setup
+![Screenshot of design](http://media.creativebloq.futurecdn.net/sites/creativebloq.com/files/images/nettools3.jpg)
 
-Site is a Jekyll website with `design.ros2.org` as the `CNAME`.
+![Screenshot of design](http://media.creativebloq.futurecdn.net/sites/creativebloq.com/files/images/netmagtools4.jpg)
 
-The site requires no static generation outside of github's static jekyll generation, which means that changes are published to the site as soon as they are pushed (can take up to 10 minutes for github to update the site).
 
-The github login (for showing pull requests) also requires that https://github.com/prose/gatekeeper is setup in heroku, and the url for that is http://auth.design.ros2.org/authenticate/TEMP_TOKEN. Because of the free Heroku instance, the first time someone logins in after a period of time, there is a delay.
